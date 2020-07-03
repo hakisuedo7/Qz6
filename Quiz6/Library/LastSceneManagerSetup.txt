@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Example 2/2DGame.unity
+  isLoaded: 1
+  isActive: 1
